@@ -6,7 +6,11 @@
 - Billy Orlando Selan
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Jadi pandu ibuku
+=======
+Tanah tumpah darahku
+>>>>>>> 6907bbfa33810145da79ef07280c9d60c8ccf123
 =======
 Bangsa dan tanah airku
 
