@@ -6,8 +6,26 @@
 - Billy Orlando Selan
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Indonesia kebangsaanku
+=======
+<<<<<<< HEAD
+Disanalah aku berdiri
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Jadi pandu ibuku
+=======
+>>>>>>> 0f120ed281030df79f8caeb5a80490cfd3491c8c
+Tanah tumpah darahku
+>>>>>>> 6907bbfa33810145da79ef07280c9d60c8ccf123
+>>>>>>> ac9a970ae6d9c756e54406659642cf3e433f4822
 =======
 Bangsa dan tanah airku
 
 >>>>>>> ab83b11ceecd93861623bc93108bd6c7d4a013d3
+<<<<<<< HEAD
+=======
+>>>>>>> 6907bbfa33810145da79ef07280c9d60c8ccf123
+>>>>>>> ac9a970ae6d9c756e54406659642cf3e433f4822
