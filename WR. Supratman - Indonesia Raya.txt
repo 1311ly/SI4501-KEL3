@@ -5,4 +5,13 @@
 - Sofiyatun Hasanah
 - Billy Orlando Selan
 
+<<<<<<< HEAD
 Disanalah aku berdiri
+=======
+<<<<<<< HEAD
+Tanah tumpah darahku
+=======
+Bangsa dan tanah airku
+
+>>>>>>> ab83b11ceecd93861623bc93108bd6c7d4a013d3
+>>>>>>> 6907bbfa33810145da79ef07280c9d60c8ccf123
