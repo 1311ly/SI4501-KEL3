@@ -6,10 +6,17 @@
 - Billy Orlando Selan
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Disanalah aku berdiri
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Jadi pandu ibuku
+=======
+>>>>>>> 0f120ed281030df79f8caeb5a80490cfd3491c8c
 Tanah tumpah darahku
+>>>>>>> 6907bbfa33810145da79ef07280c9d60c8ccf123
 =======
 Bangsa dan tanah airku
 
